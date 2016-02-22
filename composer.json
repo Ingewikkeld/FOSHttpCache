@@ -22,14 +22,13 @@
     ],
     "require": {
         "php": ">=5.3.3",
-        "guzzle/http": "3.*",
-        "symfony/event-dispatcher": "~2.3"
+        "symfony/event-dispatcher": "~3.0"
     },
     "require-dev": {
         "guzzle/plugin-mock": "*",
         "mockery/mockery": "*",
         "monolog/monolog": "*",
-        "symfony/process": "~2.3"
+        "symfony/process": "~3.0"
     },
     "suggest": {
         "monolog/monolog": "For logging issues while invalidating"
